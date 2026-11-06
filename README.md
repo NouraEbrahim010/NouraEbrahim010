@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nora Ebrahim
+# Hi 👋, I'm Noura Ebrahim
 
 ### Software Engineer | Flutter Developer | Full-Stack Development Enthusiast
 
